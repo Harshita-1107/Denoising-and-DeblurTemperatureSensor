@@ -46,7 +46,3 @@ After customizing your IDE, to run the given code and you have to follow the bel
 * Then run the programm and give the inputs of y and x when the program asks you by manually typing it. 
    (just copy paste the mentioned inputs from the data sheet)
 ```
-
-### Contribution
-***
-The assignment is done by Harshita Gupta(B20CS018) and krishi Patel(B20EE030)
