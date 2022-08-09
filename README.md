@@ -1,4 +1,4 @@
-#Programming Assignment- Signal and systems Course
+###**Programming Assignment- Signal and systems Course**
 
 ## Table of Contents
 1. [General Info](#general-info)
