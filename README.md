@@ -1,4 +1,4 @@
-###**Programming Assignment- Signal and systems Course**
+# Denoising-and-DeblurTemperatureSensor
 
 ## Table of Contents
 1. [General Info](#general-info)
